@@ -1,0 +1,846 @@
+{
+  "control": {
+    "auto-lamp": false,
+    "auto-plot1": false,
+    "auto-plot2": false,
+    "lamp": false,
+    "plot1": false,
+    "plot2": false,
+    "sensor_lamp": false,
+    "sensor_plot1": false,
+    "sensor_plot2": false,
+    "state": "set-apply"
+  },
+  "data": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "date": "07 May 2025",
+      "humidity": 69,
+      "id": 27,
+      "plot1": 35,
+      "plot2": 38,
+      "temperature": 30,
+      "time": "18:16"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 68,
+      "id": 28,
+      "plot1": 33,
+      "plot2": 43,
+      "temperature": 30,
+      "time": "18:31"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 68,
+      "id": 29,
+      "plot1": 32,
+      "plot2": 42,
+      "temperature": 30,
+      "time": "18:46"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 69,
+      "id": 30,
+      "plot1": 29,
+      "plot2": 44,
+      "temperature": 30,
+      "time": "19:01"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 69,
+      "id": 31,
+      "plot1": 27,
+      "plot2": 42,
+      "temperature": 30,
+      "time": "19:16"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 69,
+      "id": 32,
+      "plot1": 24,
+      "plot2": 43,
+      "temperature": 29,
+      "time": "19:31"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 69,
+      "id": 33,
+      "plot1": 19,
+      "plot2": 41,
+      "temperature": 30,
+      "time": "19:46"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 73,
+      "id": 34,
+      "plot1": 22,
+      "plot2": 42,
+      "temperature": 28,
+      "time": "21:14"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 72,
+      "id": 35,
+      "plot1": 19,
+      "plot2": 37,
+      "temperature": 29,
+      "time": "21:51"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 72,
+      "id": 36,
+      "plot1": 22,
+      "plot2": 37,
+      "temperature": 30,
+      "time": "22:06"
+    },
+    null,
+    {
+      "date": "07 May 2025",
+      "humidity": 72,
+      "id": 38,
+      "plot1": 24,
+      "plot2": 41,
+      "temperature": 29,
+      "time": "22:57"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 72,
+      "id": 39,
+      "plot1": 26,
+      "plot2": 43,
+      "temperature": 29,
+      "time": "23:12"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 72,
+      "id": 40,
+      "plot1": 21,
+      "plot2": 40,
+      "temperature": 29,
+      "time": "23:27"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 72,
+      "id": 41,
+      "plot1": 28,
+      "plot2": 44,
+      "temperature": 29,
+      "time": "23:42"
+    },
+    {
+      "date": "07 May 2025",
+      "humidity": 72,
+      "id": 42,
+      "plot1": 27,
+      "plot2": 43,
+      "temperature": 29,
+      "time": "23:57"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 43,
+      "plot1": 31,
+      "plot2": 47,
+      "temperature": 29,
+      "time": "00:12"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 74,
+      "id": 44,
+      "plot1": 26,
+      "plot2": 45,
+      "temperature": 27,
+      "time": "07:02"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 45,
+      "plot1": 11,
+      "plot2": 43,
+      "temperature": 28,
+      "time": "07:26"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 75,
+      "id": 46,
+      "plot1": 12,
+      "plot2": 40,
+      "temperature": 28,
+      "time": "09:14"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 74,
+      "id": 47,
+      "plot1": 9,
+      "plot2": 38,
+      "temperature": 29,
+      "time": "09:29"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 73,
+      "id": 48,
+      "plot1": 11,
+      "plot2": 39,
+      "temperature": 29,
+      "time": "09:44"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 49,
+      "plot1": 12,
+      "plot2": 41,
+      "temperature": 29,
+      "time": "09:59"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 50,
+      "plot1": 10,
+      "plot2": 40,
+      "temperature": 29,
+      "time": "10:14"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 74,
+      "id": 51,
+      "plot1": 12,
+      "plot2": 37,
+      "temperature": 29,
+      "time": "20:07"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 52,
+      "plot1": 6,
+      "plot2": 25,
+      "temperature": 29,
+      "time": "20:40"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 53,
+      "plot1": 8,
+      "plot2": 30,
+      "temperature": 29,
+      "time": "20:55"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 54,
+      "plot1": 10,
+      "plot2": 29,
+      "temperature": 29,
+      "time": "21:24"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 72,
+      "id": 55,
+      "plot1": 100,
+      "plot2": 97,
+      "temperature": 29,
+      "time": "21:39"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 71,
+      "id": 56,
+      "plot1": 33,
+      "plot2": 41,
+      "temperature": 29,
+      "time": "21:54"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 71,
+      "id": 57,
+      "plot1": 54,
+      "plot2": 40,
+      "temperature": 29,
+      "time": "22:28"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 71,
+      "id": 58,
+      "plot1": 0,
+      "plot2": 4,
+      "temperature": 29,
+      "time": "22:43"
+    },
+    {
+      "date": "08 May 2025",
+      "humidity": 74,
+      "id": 59,
+      "plot1": 69,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "23:30"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 72,
+      "id": 60,
+      "plot1": 72,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "13:14"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 75,
+      "id": 61,
+      "plot1": 35,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "13:29"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 74,
+      "id": 62,
+      "plot1": 41,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "13:44"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 75,
+      "id": 63,
+      "plot1": 53,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "13:59"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 74,
+      "id": 64,
+      "plot1": 63,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "14:14"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 74,
+      "id": 65,
+      "plot1": 60,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "14:29"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 74,
+      "id": 66,
+      "plot1": 62,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "14:44"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 73,
+      "id": 67,
+      "plot1": 61,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "14:59"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 73,
+      "id": 68,
+      "plot1": 60,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "15:14"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 73,
+      "id": 69,
+      "plot1": 46,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "15:29"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 73,
+      "id": 70,
+      "plot1": 34,
+      "plot2": 100,
+      "temperature": 28,
+      "time": "15:44"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 72,
+      "id": 71,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 28,
+      "time": "15:59"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 70,
+      "id": 72,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 28,
+      "time": "16:14"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 70,
+      "id": 73,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 27,
+      "time": "16:29"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 70,
+      "id": 74,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 27,
+      "time": "16:44"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 70,
+      "id": 75,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 27,
+      "time": "16:59"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 71,
+      "id": 76,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 27,
+      "time": "17:14"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 72,
+      "id": 77,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 27,
+      "time": "17:29"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 73,
+      "id": 78,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 27,
+      "time": "17:44"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 74,
+      "id": 79,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 27,
+      "time": "17:59"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 74,
+      "id": 80,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 28,
+      "time": "18:14"
+    },
+    {
+      "date": "09 May 2025",
+      "humidity": 100,
+      "id": 81,
+      "plot1": 22,
+      "plot2": 23,
+      "temperature": 100,
+      "time": "20:59"
+    },
+    {
+      "date": "11 May 2025",
+      "humidity": 99,
+      "id": 82,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 90,
+      "time": "12:10"
+    },
+    {
+      "date": "11 May 2025",
+      "humidity": 10,
+      "id": 83,
+      "plot1": 100,
+      "plot2": 100,
+      "temperature": 99,
+      "time": "12:50"
+    },
+    {
+      "date": "07 June 2025",
+      "humidity": 98,
+      "id": 84,
+      "plot1": 28,
+      "plot2": 50,
+      "temperature": 27,
+      "time": "12:21"
+    },
+    {
+      "date": "07 June 2025",
+      "humidity": 90,
+      "id": 85,
+      "plot1": 100,
+      "plot2": 100,
+      "temperature": 27,
+      "time": "12:36"
+    },
+    {
+      "date": "07 June 2025",
+      "humidity": 78,
+      "id": 86,
+      "plot1": 100,
+      "plot2": 100,
+      "temperature": 27,
+      "time": "12:51"
+    },
+    {
+      "date": "07 June 2025",
+      "humidity": 77,
+      "id": 87,
+      "plot1": 100,
+      "plot2": 100,
+      "temperature": 27,
+      "time": "13:06"
+    },
+    {
+      "date": "07 June 2025",
+      "humidity": 74,
+      "id": 88,
+      "plot1": 100,
+      "plot2": 100,
+      "temperature": 27,
+      "time": "13:21"
+    },
+    {
+      "date": "07 June 2025",
+      "humidity": 74,
+      "id": 89,
+      "plot1": 13,
+      "plot2": 0,
+      "temperature": 28,
+      "time": "13:36"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "date": "07 June 2025",
+      "humidity": 99,
+      "id": 105,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 28,
+      "time": "20:40"
+    },
+    {
+      "date": "10 June 2025",
+      "humidity": 99,
+      "id": 106,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 24,
+      "time": "09:33"
+    },
+    {
+      "date": "10 June 2025",
+      "humidity": 99,
+      "id": 107,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 24,
+      "time": "09:48"
+    },
+    {
+      "date": "10 June 2025",
+      "humidity": 99,
+      "id": 108,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 24,
+      "time": "10:03"
+    },
+    {
+      "date": "10 June 2025",
+      "humidity": 99,
+      "id": 109,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 24,
+      "time": "10:18"
+    },
+    {
+      "date": "05 July 2025",
+      "humidity": 99,
+      "id": 110,
+      "plot1": 0,
+      "plot2": 0,
+      "temperature": 21,
+      "time": "08:44"
+    },
+    {
+      "date": "05 July 2025",
+      "humidity": 99,
+      "id": 111,
+      "plot1": 98,
+      "plot2": 89,
+      "temperature": 21,
+      "time": "08:59"
+    },
+    {
+      "date": "05 July 2025",
+      "humidity": 99,
+      "id": 112,
+      "plot1": 58,
+      "plot2": 8,
+      "temperature": 22,
+      "time": "09:14"
+    },
+    {
+      "date": "05 July 2025",
+      "humidity": 99,
+      "id": 113,
+      "plot1": 63,
+      "plot2": 0,
+      "temperature": 22,
+      "time": "09:29"
+    }
+  ],
+  "monitoring": {
+    "humidity": 99,
+    "plot1": 64,
+    "plot2": 0,
+    "temperature": 22
+  },
+  "notif_admin": {
+    "-OUEMAq935ODKZ_A0vSi": {
+      "message": "👤 Nama: Heri Guest 3\n📧 Email: herrherii23@gmail.com\n📱 No. WA: 6285161191907\n🔐 Status: Menunggu persetujuan admin\n",
+      "status": "read",
+      "timestamp": 1751530649297,
+      "title": "📥 Pengguna Baru Mendaftar",
+      "type": "info"
+    },
+    "-OUENOcwAbpkH5SLCpuw": {
+      "message": "Terdeteksi kondisi cuaca ekstrem di Bandung: Hujan Lebat. Harap waspada dan lindungi tanaman Anda.",
+      "status": "read",
+      "timestamp": 1751530967939,
+      "title": "⚠️ Peringatan Cuaca Ekstrem"
+    },
+    "-OUENYk2OPApRiA9imQB": {
+      "message": "Terdeteksi kondisi cuaca ekstrem di Bandung: Badai Petir. Harap waspada dan lindungi tanaman Anda.",
+      "status": "read",
+      "timestamp": 1751531009355,
+      "title": "⚠️ Peringatan Cuaca Ekstrem"
+    },
+    "-OUNUVGTjreGp78QPSkH": {
+      "message": "👤 Nama: Heri Guest 4\n📧 Email: herrherii24@gmail.com\n📱 No. WA: 6285161191907\n🔐 Status: Menunggu persetujuan admin\n",
+      "status": "read",
+      "timestamp": 1751683826965,
+      "title": "📥 Pengguna Baru Mendaftar",
+      "type": "info"
+    }
+  },
+  "notif_user": {
+    "-OUEK5aLvNDQLHcskgj0": {
+      "message": "Terdeteksi kondisi cuaca ekstrem di Bandung: Hujan Lebat. Harap waspada dan lindungi tanaman Anda.",
+      "status": "read",
+      "timestamp": 1751530103491,
+      "title": "⚠️ Peringatan Cuaca Ekstrem"
+    }
+  },
+  "settings": {
+    "lamp": {
+      "day1": true,
+      "day2": true,
+      "day3": true,
+      "day4": true,
+      "day5": true,
+      "day6": true,
+      "day7": true,
+      "time-off": "17:28",
+      "time-on": "17:25"
+    },
+    "plot1": {
+      "day1": true,
+      "day2": true,
+      "day3": true,
+      "day4": true,
+      "day5": true,
+      "day6": true,
+      "day7": true,
+      "duration1": 20,
+      "duration2": 5,
+      "time1": "17:12",
+      "time2": "12:45",
+      "unit1": "second",
+      "unit2": "minute"
+    },
+    "plot2": {
+      "day1": true,
+      "day2": true,
+      "day3": true,
+      "day4": true,
+      "day5": true,
+      "day6": true,
+      "day7": true,
+      "duration1": 1,
+      "duration2": 20,
+      "time1": "17:14",
+      "time2": "20:10",
+      "unit1": "minute",
+      "unit2": "second"
+    }
+  },
+  "users": {
+    "8lgmMeAxjdaXdppNbY0O5Itufdy1": {
+      "email": "herii2k01@gmail.com",
+      "name": "Heri User",
+      "phone": "6285161191907",
+      "role": "user"
+    },
+    "QbiLt2z5HkgyqxnQcW2wouwYcpc2": {
+      "email": "herrherii22@gmail.com",
+      "name": "Heri Guest 2",
+      "phone": "6285161191907",
+      "role": "pending"
+    },
+    "RTWAqI7f2OdbtLHn0zP6BwJ8QY63": {
+      "email": "herrherii21@gmail.com",
+      "name": "Heri Guest",
+      "phone": "6285161191907",
+      "role": "pending"
+    },
+    "T4FPmiPJqEVxbJ94PZgiKp8fuYE3": {
+      "email": "heririez@gmail.com",
+      "name": "Heri User 2",
+      "phone": "6285161191907",
+      "role": "user"
+    },
+    "WWzjZkLyBxazo9JXy9sdNWBN0Ga2": {
+      "email": "herrherii23@gmail.com",
+      "name": "Heri Guest 3",
+      "phone": "6285161191907",
+      "role": "pending"
+    },
+    "j9ollyaJ3GcqZgwytojGQwZASV02": {
+      "email": "user@example.com",
+      "name": "User",
+      "phone": "6285161191907",
+      "role": "user"
+    },
+    "jNeqhSVpj6U6Kbya7mq4xt2j7z83": {
+      "email": "heri.10121914@mahasiswa.unikom.ac.id",
+      "name": "Heri Admin",
+      "phone": "6285798457093",
+      "role": "admin"
+    },
+    "tBzxG4AE8tfP7H39PxoO5aCDzl53": {
+      "email": "admin@example.com",
+      "name": "Admin",
+      "phone": "6285798457093",
+      "role": "admin"
+    }
+  },
+  "weather_data": {
+    "condition": "Hujan Sedang",
+    "humidity": 71,
+    "last_update": "2025-07-05T07:52:53.950Z",
+    "rain": 1.4,
+    "temperature": 28.64
+  },
+  "weather_status": {
+    "last_extreme_notif": {
+      "condition": "Badai Petir",
+      "date": "2025-07-03"
+    }
+  }
+}
